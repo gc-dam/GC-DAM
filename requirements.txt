@@ -1,0 +1,12 @@
+jupyterlab
+seaborn
+gliner
+ollama
+node2vec
+networkx
+plotly
+scikit-learn
+langchain
+tqdm
+instructor
+pydantic
